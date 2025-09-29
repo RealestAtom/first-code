@@ -1,0 +1,24 @@
+
+
+
+
+.secondDiv{
+   color:rgb(199, 181, 22);
+   border-color:blue;
+   border-width:thick;
+   border-style:dotted;
+ }
+.firstDiv{
+   color:cyan;
+   
+}
+.hire{
+   color:green;
+   margin-left:200px;
+
+ }
+
+#slogan{
+   color:purple;
+   text-decoration:line-through;
+}
